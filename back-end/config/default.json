@@ -1,0 +1,6 @@
+{
+  "MongoURI": "mongodb+srv://Priyanka:PettaLovesMe%2476@clusterexample-lzkky.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myjwtsecret",
+  "gitHubClientId": "45af2e8f8181cefd6a15",
+  "gitHubClientSecret": "1ed24e6cb4b0ed63c2aa57c0ebd7be1b2c3a1f07"
+}
